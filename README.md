@@ -1,1 +1,1 @@
-# Python-Selenium
+# Python-autotests
